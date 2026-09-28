@@ -10,4 +10,5 @@ Components are the building blocks of your application. They are the most import
 - [Props](components/props.md)
 - [Emits](components/emits.md)
 - [Slots](components/slots.md)
+- [Portals](components/portals.md)
 - [Accessibility](components/accessibility.md)
